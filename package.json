@@ -1,0 +1,19 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "fazer o setup da máquina e printar o nome no Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "cmd + u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamarasalvatori/setup_node.git"
+  },
+  "author": "Tamara Salvatori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamarasalvatori/setup_node/issues"
+  },
+  "homepage": "https://github.com/tamarasalvatori/setup_node#readme"
+}
