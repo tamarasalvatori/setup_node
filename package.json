@@ -4,7 +4,8 @@
   "description": "fazer o setup da máquina e printar o nome no Heroku",
   "main": "index.js",
   "scripts": {
-    "test": "cmd + u"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js ."
   },
   "repository": {
     "type": "git",
